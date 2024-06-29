@@ -7,5 +7,7 @@ Data Processing: This included normalizing pixel values, converting images to gr
 Data Augmentation: This step was essential to train the model to recognize characters in less-than-ideal situations, which is common in handwriting.
 Model Building: We built our model using a 1-D Convolutional Neural Network (CNN).
 
+Our model achieved a character error rate of 12.5%, demonstrating its effectiveness in recognizing handwritten text.
+
 This end-to-end solution lifecycle effectively digitizes handwritten documents, providing an efficient and accessible way to handle important records.
 
